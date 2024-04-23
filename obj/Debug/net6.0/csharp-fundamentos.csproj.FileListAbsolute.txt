@@ -1,0 +1,15 @@
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/csharp-fundamentos
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/csharp-fundamentos.deps.json
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/csharp-fundamentos.runtimeconfig.json
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/csharp-fundamentos.dll
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/ref/csharp-fundamentos.dll
+/home/fabio/Documents/csharp-fundamentos/bin/Debug/net6.0/csharp-fundamentos.pdb
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.csproj.AssemblyReference.cache
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.AssemblyInfoInputs.cache
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.AssemblyInfo.cs
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.csproj.CoreCompileInputs.cache
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.dll
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/ref/csharp-fundamentos.dll
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.pdb
+/home/fabio/Documents/csharp-fundamentos/obj/Debug/net6.0/csharp-fundamentos.genruntimeconfig.cache
